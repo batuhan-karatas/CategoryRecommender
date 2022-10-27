@@ -1,0 +1,20 @@
+Oluşturan Database Platformu  : MySQL (phpMyAdmin)
+Database Adı  :testdb
+
+
+Oluşturulan Excel Dosyaları : 
+	-title_count : Her bir kategorinin Title kısmındaki her kelimenin, o kategoride kaç defa geçtiğini hesaplar ve yazdırır.
+
+	-title_match_count : Sizin verdiğiniz tagler ile 'title_count' databaseindeki kelimeleri karşılaştırıp, aynı kelimeyi bulup eşleştirmeyi sağlar ve kaç tane olduğunu yazdırır.
+
+	-text_count: Her bir kategorinin Text kısmındaki her kelimenin, o kategoride kaç defa geçtiğini hesaplar ve yazdırır.
+
+
+	-text_match_count: Sizin verdiğiniz tagler ile 'text_count' databaseindeki kelimeleri karşılaştırıp, aynı kelimeyi bulup eşleştirmeyi sağlar ve kaç tane olduğunu yazdırır.
+
+	-deneysel_bankacilik : Her bir kategorideki kelimenin,o tüm kategorilerdeki toplamını alır ve standart sapmasını hesaplar . Bu databasede kelimenin en çok geçtiği kategori, kelimenin tüm kategorilerdeki toplam geçme sayısı , standart sapması , en çok geçtiği kategorideki geçme sayısı ve ortalaması bulunur . 
+
+
+	-category : Excelden alınmıştır.
+
+	-request : Excelden alınmıştır.
